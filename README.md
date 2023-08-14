@@ -6,8 +6,9 @@ N/A
 
 
 ## Usage
+A link to the application is [here](https://l-antonello.github.io/planner/)
 
-This is a planner used for schedualing events in a live color-coded interaction
+This is a planner used for scheduling events in a live color-coded interaction
 
 - From 9am to 5pm, the user is able to enter their tasks for the day.
 - Each block is designated as either past, present, or future, indicated by their respective colors of grey, red, and green.
